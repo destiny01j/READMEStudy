@@ -58,4 +58,5 @@ System.out.print("Hello World!");
   ---
   
   ### 6. 이미지 가져오기
-  
+  ![image](https://user-images.githubusercontent.com/63959727/112941047-f819d180-9168-11eb-81e3-2f65be1dea08.png)
+
